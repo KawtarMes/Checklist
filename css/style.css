@@ -1,0 +1,35 @@
+
+body{
+    padding:0;
+    margin: 0%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: agbalumo;
+    background-color: rgb(240, 234, 238) 
+
+}
+
+h2{
+    color:rgb(213, 45, 152) ;
+    font-size:x-large;
+}
+.container{
+  margin-left: 20%;
+  margin-right: 20%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+   
+}
+#progress-container{
+    font-size: xx-large;
+    
+}
+fieldset{
+    border-radius: 50px;
+    font-size: x-large;
+    border: none;
+    margin: 7px;
+    box-shadow: rgba(240, 46, 170, 0.4) 4px 4px, rgba(240, 46, 170, 0.3) 8px 8px, rgba(240, 46, 170, 0.2) 10px 10px, rgba(240, 46, 170, 0.1) 15px 15px, rgba(240, 46, 170, 0.05) 20px 20px;}
+
